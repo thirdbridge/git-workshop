@@ -1,5 +1,5 @@
 export class Cat {
   makeAsound() {
-    console.log("wouf wouf");
+    console.log("meow meow");
   }
 }
